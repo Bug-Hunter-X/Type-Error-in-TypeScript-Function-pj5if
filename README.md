@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript where a function expecting a numeric input receives a string. The TypeScript compiler will flag this as an error, highlighting the importance of type safety in TypeScript.  The solution provided shows how to avoid this by improving type handling.
